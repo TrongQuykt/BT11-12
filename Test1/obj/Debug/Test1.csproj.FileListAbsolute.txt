@@ -1,0 +1,10 @@
+D:\CD\Test1\Test1\Test1\bin\Debug\Test1.exe.config
+D:\CD\Test1\Test1\Test1\bin\Debug\Test1.exe
+D:\CD\Test1\Test1\Test1\bin\Debug\Test1.pdb
+D:\CD\Test1\Test1\Test1\obj\Debug\Test1.csproj.AssemblyReference.cache
+D:\CD\Test1\Test1\Test1\obj\Debug\Test1.csproj.SuggestedBindingRedirects.cache
+D:\CD\Test1\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+D:\CD\Test1\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.cache
+D:\CD\Test1\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+D:\CD\Test1\Test1\Test1\obj\Debug\Test1.exe
+D:\CD\Test1\Test1\Test1\obj\Debug\Test1.pdb
